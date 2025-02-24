@@ -9,6 +9,7 @@ _О проекте:_ В ходе работы был создан функцио
 
 <img src="https://github.com/TimofeyVeprev/gifs_and_pictures/blob/main/scientific_work_25/traect2-img.png?raw=true" align="right" width=500>
 
+<img src="https://github.com/TimofeyVeprev/gifs_and_pictures/blob/main/scientific_work_25/all-img.png?raw=true" align="right" width=500>
 
 <!--
 **TimofeyVeprev/TimofeyVeprev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
