@@ -1,7 +1,6 @@
 ## TimofeyV :zap:
 ### Skills / Стек технологий 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=30> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width=30>
-
 ### Projects / Проекты
 ---
 #### <h3 align="center">Arduino and Python Projects / Проекты на Arduino и Python</h3> <h3 align="center">Научная работа 2025</h3>
