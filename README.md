@@ -1,9 +1,14 @@
 ## TimofeyV :zap:
-### Skills / Стек технологий 
-C++ <br />
-Python <br />
-Flutter <br />
-Arduino <br />
+### Languages / Языки
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cplusplus" alt="Cplusplus" width=40 height=40>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="Python" alt="Python" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Flutter" alt="Flutter" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Flutter" alt="Flutter" width="40" height="40">
+</div>
+
 ### Projects / Проекты
 ---
 #### <h3 align="center">Arduino and Python Projects / Проекты на Arduino и Python</h3> <h3 align="center">Научная работа 2025</h3>
